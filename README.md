@@ -21,4 +21,4 @@ This mirror operates under fair use principles:
 - Limited portion of overall content
 
 ## Contact
-For takedown requests: [your email]
+For takedown requests: comment
